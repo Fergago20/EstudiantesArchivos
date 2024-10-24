@@ -1,0 +1,10 @@
+C:\Users\Dell\Documents\Practica\Asignaturas\bin\Debug\Asignaturas.exe.config
+C:\Users\Dell\Documents\Practica\Asignaturas\bin\Debug\Asignaturas.exe
+C:\Users\Dell\Documents\Practica\Asignaturas\bin\Debug\Asignaturas.pdb
+C:\Users\Dell\Documents\Practica\Asignaturas\obj\Debug\Asignaturas.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\Practica\Asignaturas\obj\Debug\Asignaturas.Form1.resources
+C:\Users\Dell\Documents\Practica\Asignaturas\obj\Debug\Asignaturas.Properties.Resources.resources
+C:\Users\Dell\Documents\Practica\Asignaturas\obj\Debug\Asignaturas.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\Practica\Asignaturas\obj\Debug\Asignaturas.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Practica\Asignaturas\obj\Debug\Asignaturas.exe
+C:\Users\Dell\Documents\Practica\Asignaturas\obj\Debug\Asignaturas.pdb

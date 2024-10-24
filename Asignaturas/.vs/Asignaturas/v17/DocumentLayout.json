@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Documents\\Practica\\Asignaturas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF2D8CE-8228-42B8-B426-4BC92B7BEF77}|Asignaturas.csproj|c:\\users\\dell\\documents\\practica\\asignaturas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF2D8CE-8228-42B8-B426-4BC92B7BEF77}|Asignaturas.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF2D8CE-8228-42B8-B426-4BC92B7BEF77}|Asignaturas.csproj|c:\\users\\dell\\documents\\practica\\asignaturas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1EF2D8CE-8228-42B8-B426-4BC92B7BEF77}|Asignaturas.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF2D8CE-8228-42B8-B426-4BC92B7BEF77}|Asignaturas.csproj|c:\\users\\dell\\documents\\practica\\asignaturas\\model\\archivoalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF2D8CE-8228-42B8-B426-4BC92B7BEF77}|Asignaturas.csproj|solutionrelative:model\\archivoalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF2D8CE-8228-42B8-B426-4BC92B7BEF77}|Asignaturas.csproj|c:\\users\\dell\\documents\\practica\\asignaturas\\model\\administraralumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF2D8CE-8228-42B8-B426-4BC92B7BEF77}|Asignaturas.csproj|solutionrelative:model\\administraralumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF2D8CE-8228-42B8-B426-4BC92B7BEF77}|Asignaturas.csproj|c:\\users\\dell\\documents\\practica\\asignaturas\\model\\clase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF2D8CE-8228-42B8-B426-4BC92B7BEF77}|Asignaturas.csproj|solutionrelative:model\\clase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArchivoAlumnos.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Practica\\Asignaturas\\model\\ArchivoAlumnos.cs",
+              "RelativeDocumentMoniker": "model\\ArchivoAlumnos.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Practica\\Asignaturas\\model\\ArchivoAlumnos.cs",
+              "RelativeToolTip": "model\\ArchivoAlumnos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T20:37:34.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Practica\\Asignaturas\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Practica\\Asignaturas\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwEsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T20:09:36.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdministrarAlumno.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Practica\\Asignaturas\\model\\AdministrarAlumno.cs",
+              "RelativeDocumentMoniker": "model\\AdministrarAlumno.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Practica\\Asignaturas\\model\\AdministrarAlumno.cs",
+              "RelativeToolTip": "model\\AdministrarAlumno.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwBgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T19:38:59.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Clase.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Practica\\Asignaturas\\model\\Clase.cs",
+              "RelativeDocumentMoniker": "model\\Clase.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Practica\\Asignaturas\\model\\Clase.cs",
+              "RelativeToolTip": "model\\Clase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T19:20:52.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Practica\\Asignaturas\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Practica\\Asignaturas\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T19:02:48.03Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
